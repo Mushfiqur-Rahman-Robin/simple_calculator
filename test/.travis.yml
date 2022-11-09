@@ -1,0 +1,17 @@
+language: python
+sudo: false
+os:
+  - linux
+
+python:
+  - "3.9"
+  - "3.10"
+
+script:
+  - "py.test test*"
+
+notifications:
+    on_success: always
+    on_failure: always
+    on_start: never
+
