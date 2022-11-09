@@ -8,10 +8,11 @@ python:
   - "3.10"
 
 script:
-  - "py.test test*"
+  - "pytest test*"
 
 notifications:
-    on_success: always
+  email:
+    receipents: u1604123@student.cuet.ac.bd
+    on_success: never
     on_failure: always
     on_start: never
-
