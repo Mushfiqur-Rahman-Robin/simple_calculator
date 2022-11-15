@@ -1,4 +1,4 @@
-from calculator import multiply
+from simple_calculator import multiply
 
 
 def test_multiply():

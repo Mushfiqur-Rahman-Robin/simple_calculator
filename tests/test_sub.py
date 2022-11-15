@@ -1,4 +1,4 @@
-from calculator import subtract
+from simple_calculator import subtract
 
 
 def test_subtract():

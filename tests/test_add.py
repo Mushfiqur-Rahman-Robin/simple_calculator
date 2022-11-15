@@ -1,6 +1,6 @@
 
 
-from calculator import add
+from simple_calculator import add
 
 
 def test_add():

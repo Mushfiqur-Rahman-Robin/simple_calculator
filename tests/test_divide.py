@@ -1,4 +1,4 @@
-from calculator import divide
+from simple_calculator import divide
 
 
 def test_divide():
