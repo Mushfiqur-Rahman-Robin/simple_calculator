@@ -1,1 +1,1 @@
-[![CircleCI](https://circleci.com/gh/circleci/simple_calculator.svg?style=svg)](https://github.com/Mushfiqur-Rahman-Robin/simple_calculator)
+[https://img.shields.io/badge/circleci-passing-brightgreen](https://github.com/Mushfiqur-Rahman-Robin/simple_calculator)
